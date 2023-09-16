@@ -1,7 +1,7 @@
 # ID&类型 说明 地址 其他说明 (类型：100-稳定源;200-测试源;300-基础sub;400-meta_sub;500-规则地址)
 
 101 Jsdelivr-CDN源 https://fastly.jsdelivr.net/gh/juewuy/ShellClash 稳定版 
-102 Github源(须clash服务启用) https://raw.githubusercontent.com/juewuy/ShellClash 稳定版 
+102 Github源(sol,须clash服务启用) https://raw.githubusercontent.com/soulomoon/ShellClash 稳定版 
 
 201 Jsdelivr-CDN源 https://fastly.jsdelivr.net/gh/juewuy/ShellClash@master 公测版 
 202 ShellClash私人源1 https://gh.jwsc.eu.org/master 公测版 
